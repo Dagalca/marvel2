@@ -1,0 +1,29 @@
+/* Por ejemplo, resources/css/app.css */
+body {
+    background-color: black; /* Fondo negro */
+}
+
+svg {
+    width: 100px;
+    max-height: 100px;
+}
+
+/* Puedes añadir clases adicionales o IDs para controlar los colores */
+#avengers1,
+#iron1,
+#america1 {
+    fill: red; /* Color rojo */
+}
+
+#avengers2,
+#iron2,
+#america2 {
+    fill: blue; /* Color azul */
+}
+
+#avengers3,
+#iron3,
+#america3 {
+    fill: red; /* Alternando rojo y azul */
+}
+
